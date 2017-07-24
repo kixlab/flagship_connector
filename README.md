@@ -6,8 +6,9 @@ Kixlab의 플래그십 AI를 위한 API 모듈
 
 1. Dart 설치: https://www.dartlang.org/install
 2. 레포지트리 Clone 하기
-3. Clone된 폴더로 들어가기
-4. `dart bin/main.dart` 명령어로 실행하기
+3. 터미널로 Clone된 폴더로 들어가기
+4. `pub get` 터미널에서 이 명령어로 디펜던시 모두 받기
+5. `dart bin/main.dart` 명령어로 실행하기
 ## API 규격
 ### 채팅방 만들기 /chat_room
 Post /chat_room (at chat_room_controller)
